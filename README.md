@@ -61,13 +61,6 @@
 - **强化学习** — GRPO、过程奖励塑形、On-Policy 自蒸馏（OPSD）
 - **后端工程** — Spring Boot、MySQL、Redis、高可用服务设计
 
----
-
-### 📊 GitHub 统计
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=daoluzixin&theme=default&hide_border=true&locale=zh_Hans" alt="GitHub Streak" />
-</p>
 
 ---
 
