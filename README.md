@@ -1,7 +1,9 @@
 <h1 align="center">Hey 👋 我是 Fyrgo</h1>
 
 <p align="center">
-  <em>朝朝暮暮何所求</em>
+  <a href="https://github.com/daoluzixin">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=%E6%9C%9D%E6%9C%9D%E6%9A%AE%E6%9A%AE%E4%BD%95%E6%89%80%E6%B1%82;Backend+Developer+%7C+Java;LLM+%2B+Data+Engineering+Explorer;AI+Agent+Enthusiast" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -17,7 +19,7 @@
 
 ### 关于我
 
-后端开发者，Java 技术栈，有 DDD 架构和图片服务后端的实践经验。目前对大语言模型和 AI Agent 方向有浓厚兴趣，正在从工程侧向算法侧探索。
+后端开发者，Java 技术栈出身，目前专注于 AI Agent 应用开发。同时对大语言模型全链路（数据工程 → 训练 → 推理优化）和强化学习有浓厚兴趣，正在从工程侧向算法侧探索。
 
 ---
 
@@ -40,6 +42,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/DeepSpeed-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
 </p>
 
 **系统基础**
@@ -52,23 +55,11 @@
 
 ### 🔬 兴趣方向
 
-- **后端架构** — DDD 领域驱动设计、微服务
-- **AI Agent** — 工具调用、多步规划、流程编排
-- **大模型训练** — Pretrain → SFT → RLHF 全流程，LoRA 参数高效微调
-- **强化学习与推理** — GRPO、过程奖励、OPD等
+- **AI Agent** — MCP 工具协议、ReAct / Reflexion / ToT 推理框架、多 Agent 协作（A2A）、RAG 检索增强、记忆系统、Skill 编排与定时任务闭环
+- **数据工程** — MinHash 去重、PPL、Self-Instruct / Evol-Instruct 数据合成、数据飞轮
+- **大模型训练** — Pretrain → SFT → RLHF 全流程，LoRA / QLoRA 参数高效微调
+- **强化学习** — GRPO、过程奖励塑形、On-Policy 自蒸馏（OPSD）
+- **后端工程** — Spring Boot、MySQL、Redis、高可用服务设计
 
 ---
 
-
-### 📊 GitHub 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daoluzixin&show_icons=true&theme=default&hide_border=true&count_private=true&locale=cn" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daoluzixin&layout=compact&theme=default&hide_border=true&locale=cn" height="165" />
-</p>
-
----
-
-<p align="center">
-  <em>"理解一件事最好的方式，是在约束条件下尝试复现它。"</em>
-</p>
