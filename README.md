@@ -55,23 +55,10 @@
 - **后端架构** — DDD 领域驱动设计、微服务
 - **AI Agent** — 工具调用、多步规划、流程编排
 - **大模型训练** — Pretrain → SFT → RLHF 全流程，LoRA 参数高效微调
-- **强化学习与推理** — GRPO、过程奖励（初步探索中）
+- **强化学习与推理** — GRPO、过程奖励、OPD等
 
 ---
 
-### 📂 项目一览
-
-| 项目 | 简介 | 语言 |
-|------|------|------|
-| [picture-backend-ddd](https://github.com/daoluzixin/picture-backend-ddd) | 图片服务后端（DDD 架构） | Java |
-| [AI_Education](https://github.com/daoluzixin/AI_Education) | AI 教育平台 | Java |
-| [prompt-flywheel](https://github.com/daoluzixin/prompt-flywheel) | Prompt 工程工具 | Python |
-| [MiniResearcher](https://github.com/daoluzixin/MiniResearcher) | 低资源 LLM 推理训练实验 | Python |
-| [llm-notes](https://github.com/daoluzixin/llm-notes) | LLM 学习笔记 | HTML |
-| [agent-notes](https://github.com/daoluzixin/agent-notes) | AI Agent 学习笔记 | Markdown |
-| [os-operation](https://github.com/daoluzixin/os-operation) | 操作系统原理实验 | C |
-
----
 
 ### 📊 GitHub 统计
 
