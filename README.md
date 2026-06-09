@@ -63,3 +63,21 @@
 
 ---
 
+### 📊 GitHub 统计
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=daoluzixin&theme=default&hide_border=true&locale=zh_Hans" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daoluzixin/daoluzixin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daoluzixin/daoluzixin/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/daoluzixin/daoluzixin/output/github-snake.svg" />
+</picture>
+
+---
+
