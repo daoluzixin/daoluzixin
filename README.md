@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/daoluzixin">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=%E6%9C%9D%E6%9C%9D%E6%9A%AE%E6%9A%AE%E4%BD%95%E6%89%80%E6%B1%82;Backend+Developer+%7C+Java;LLM+%2B+Data+Engineering+Explorer;AI+Agent+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=%E5%B1%B1%E4%B8%AD%E6%97%A0%E5%8E%86%E6%97%A5%EF%BC%8C%E5%AF%92%E5%B0%BD%E4%B8%8D%E7%9F%A5%E5%B9%B4;Backend+Developer+%7C+Java;LLM+%2B+Data+Engineering+Explorer;AI+Agent+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
