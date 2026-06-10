@@ -21,7 +21,7 @@
 
 ### 关于我
 
-后端开发者，Java 技术栈出身，目前专注于 AI Agent 应用开发。同时对大语言模型和强化学习有浓厚兴趣，正在从工程侧向算法侧探索。
+后端开发者，目前专注于 AI Agent 应用开发。同时对大语言模型和强化学习有浓厚兴趣，正在从工程侧向算法侧探索。
 
 ---
 
@@ -60,7 +60,7 @@
 - **AI Agent** — 工具调用、多 Agent 协作、RAG 检索增强、记忆系统、Skill、Harness 工程
 - **数据工程** — MinHash 去重、PPL、Self-Instruct / Evol-Instruct 数据合成、数据飞轮
 - **大模型训练** — Pretrain → SFT → RLHF 全流程，LoRA / QLoRA 参数高效微调
-- **强化学习** — GRPO、过程奖励塑形、On-Policy 自蒸馏（OPSD）
+- **强化学习** — GRPO、过程奖励塑形、On-Policy 自蒸馏（OPD）
 - **后端工程** — Spring Boot、MySQL、Redis、高可用服务设计
 
 
