@@ -1,8 +1,10 @@
 <h1 align="center">Hey 👋 我是 Fyrgo</h1>
 
+<p align="center"><i>山中无历日，寒尽不知年</i></p>
+
 <p align="center">
   <a href="https://github.com/daoluzixin">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=%E5%B1%B1%E4%B8%AD%E6%97%A0%E5%8E%86%E6%97%A5%EF%BC%8C%E5%AF%92%E5%B0%BD%E4%B8%8D%E7%9F%A5%E5%B9%B4;Backend+Developer+%7C+Java;LLM+%2B+Data+Engineering+Explorer;AI+Agent+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+Java;LLM+%2B+Data+Engineering+Explorer;AI+Agent+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,7 +21,7 @@
 
 ### 关于我
 
-后端开发者，目前专注于 AI Agent 应用开发。同时对大语言模型和强化学习有浓厚兴趣，正在从工程侧向算法侧探索。
+后端开发者，Java 技术栈出身，目前专注于 AI Agent 应用开发。同时对大语言模型和强化学习有浓厚兴趣，正在从工程侧向算法侧探索。
 
 ---
 
