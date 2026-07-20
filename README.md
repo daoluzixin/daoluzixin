@@ -1,9 +1,9 @@
 # Hi, I'm Fyrgo
 
-一名电子科技大学 2028 届本科生，关注 **Agentic RL** 与 **推理基础设施**。
+I'm an undergraduate student at the University of Electronic Science and Technology of China, graduating in 2028. I'm interested in **Agentic RL** and **inference infrastructure**.
 
-- 曾在美团履约平台参与 Agent 应用开发
-- 目前在华为 ICT 计算产品线从事 AI Infra 实习
-- 正在为 vLLM-Omni、vLLM-vime、AReaL 等开源项目贡献代码
+- Previously worked on agent application development for Meituan's fulfillment platform
+- Currently working as an AI Infra intern in Huawei's ICT Computing Product Line
+- Contributing code to open-source projects including vLLM-Omni, vLLM-vime, and AReaL
 
-我对 Agentic RL、RL Infra 和高性能推理系统尤其感兴趣，也在持续关注相关方向的实习机会。欢迎交流与合作, 我的邮箱: fyrgo@qq.com
+I'm particularly interested in Agentic RL, RL Infra, and high-performance inference systems. I'm also exploring internship opportunities in these areas. Feel free to reach out for discussion or collaboration. Email: fyrgo@qq.com
