@@ -1,0 +1,3 @@
+Hello from Claude Code!
+
+Committed at: 2026-08-18T10:28:00Z (automated test commit)
